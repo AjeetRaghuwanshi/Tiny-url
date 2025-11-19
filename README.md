@@ -15,7 +15,8 @@ morgan: Middleware for logging HTTP requests in Express applications.
 Installation
 Clone the repository to your local machine:
 
-git clone https://github.com/gagand29/tiny-url.git
+git clone then paste your repo 
+
 Navigate to the project directory:
 
 cd tiny-url
